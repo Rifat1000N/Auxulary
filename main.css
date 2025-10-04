@@ -72,6 +72,10 @@ canvas {
   body {
     text-align: center;
   }
+  .image {
+    width: 200px;  /* ADD THIS */
+    height: 200px; /* ADD THIS */
+  }
   .header1 {
     font-size: 9vw;
   }
