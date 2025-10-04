@@ -22,11 +22,11 @@ canvas {
 
 .image {
   border-radius: 50%;
-  width: 250px;            /* Add fixed width */
-  height: 250px;           /* Add matching height */
+  width: 170px;            /* Add fixed width */
+  height: 170px;           /* Add matching height */
   object-fit: cover;       /* Prevents image distortion */
   display: block;          /* Ensures proper alignment */
-  margin: 0 auto 20px;     /* Centers image and adds space below */
+  margin: 0 auto 30px;     /* Centers image and adds space below */
   border: 3px solid #fff;  /* Optional: adds clean border */
   box-shadow: 0 0 10px rgba(0,0,0,0.2); /* Optional: subtle shadow */
   border-radius: 50%;
@@ -73,8 +73,8 @@ canvas {
     text-align: center;
   }
   .image {
-    width: 200px;  /* ADD THIS */
-    height: 200px; /* ADD THIS */
+    width: 170px;  /* ADD THIS */
+    height: 170px; /* ADD THIS */
   }
   .header1 {
     font-size: 9vw;
