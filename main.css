@@ -22,8 +22,8 @@ canvas {
 
 .image {
   border-radius: 50%;
-  width: 170px;            /* Add fixed width */
-  height: 170px;           /* Add matching height */
+  width: 200px;            /* Add fixed width */
+  height: 200px;           /* Add matching height */
   object-fit: cover;       /* Prevents image distortion */
   display: block;          /* Ensures proper alignment */
   margin: 0 auto 20px;     /* Centers image and adds space below */
